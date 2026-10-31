@@ -1,0 +1,21 @@
+# .NET build artifacts
+**/bin/
+**/obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Rider
+.idea/
+
+# Logs
+*.log
+
+# Publish output
+publish/
+
+# Environment secrets
+.env
+.env.*
